@@ -1,0 +1,16 @@
+1) defer
+2) label for
+3) css variables
+4) width and max-width for responsive design
+5) border-box 
+6) inherit
+7) caret-color
+8) background:none (to remove background properties)
+9) id:focus (pseudo class)
+10) position: absolute & relative
+11) flex grow-1;
+12) sibling selector and pseudo classes ,input[type=checkbox];
+13) submit event listener
+14) preventDefault method()
+15) local storage
+16) filter method
