@@ -60,6 +60,7 @@ function createHtml(todo, todoIndex) {
     todoArray[todoIndex].completed=checkbox.checked;
     saveTodo();
   })
+  checkbox.checked=todo.completed;
   
   return newlist;
 }
